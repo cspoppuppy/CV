@@ -100,9 +100,8 @@ Activities
 Studied in a highly academically competitive class in a reputable school, which kept only top 50 students with monthly assessments. I entered the class and ranked at the bottom 5, and graduated as top 5 (Grade: A* UK equivalent)
 
 Achievements
-* 1999 Hunan High School Maths Olympiad 3rd Prize
+* 1999,1996 Hunan High School Maths Olympiad 3rd Prize
 * 1999 Hunan High School Chemistry Olympiad 3rd Prize
-* 1996 Hunan Junior High School Maths Olympiad 3rd Prize
 * Awarded most progressed student and various scholarships
 
 #### Other
