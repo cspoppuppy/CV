@@ -8,7 +8,7 @@ A self-trained Data Engineer and coder, re-orienting myself to a Full Stack Soft
 
 A pattern thinker and self-driven learner. Enjoy solving challenging problems from first principles.
 
-Enjoy partnering with people with a growth mindset and intellectual curiosity. Enjoy working in organisation value people over managerial power.
+Enjoy partnering with people with a growth mindset and intellectual curiosity. Enjoy working in organisation that values people over managerial power.
 
 Currently I am attending Makers Academy to build up my software development knowledge more systematically, and learn latest tools and best practices to work efficiently within a technical team.
 
