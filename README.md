@@ -1,6 +1,6 @@
 ## Sha Cheng
 
-[Skills](#technical-skills) | [Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/sha-cheng-a3080329/) | [Website](https://cspoppuppy.github.io/) | [Blog](https://shacheng.co.uk/)
+[Skills](#technical-skills) | [Projects](#projects) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/sha-cheng-a3080329/) | [Website](https://cspoppuppy.github.io/) | [Blog](https://blog.shacheng.co.uk/)
 
 ## About Me
 
