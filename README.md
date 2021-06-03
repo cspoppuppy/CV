@@ -73,7 +73,7 @@ support/test team.
 
 #### Aug 2009 - Sep 2010: Data Administrator, Marketing, Fine + Rare Wines Ltd. (London, UK)
 
-Handling all the wine data in a fine wine company in London, I created some wine indices to analyse market patterns and trends. The tool attracted interests from the wine traders, the marketing manager, and the CEO. Together we further developed the tool, and released a product in the company website to help customers make better purchasing/investing decisions.
+Handling all the wine data in a fine wine company in London, I created some wine indices to analyse market patterns and trends. The tool attracted interests from the wine traders, the marketing manager, and the CEO. Together we further developed the tool, and released a product in the company website to help customers make better purchasing/investing decisions.\
 Other Contributions
 * Automated data processing, saved the team significant amount of time every day.
 * Helped company publicity: arranged our CEO interview with Money Talks magazine in China, published as cover
